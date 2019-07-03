@@ -28,5 +28,3 @@ function locale_en_US_info() {
         ,'stop_words'      => 'i,a,about,an,are,as,at,be,by,com,for,from,how,in,is,it,of,on,or,that,the,this,to,was,what,when,where,who,will,with,the'
     );
 }
-
-?>
